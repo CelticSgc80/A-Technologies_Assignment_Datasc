@@ -1,4 +1,4 @@
-#Create a calculator (Mathematical,Bitwise, Relational,):
+#Create a two input calculator (Mathematical,Bitwise, Relational,):
 ##Function Define:
 #Mathematical operation:
 def sum(a,b):
